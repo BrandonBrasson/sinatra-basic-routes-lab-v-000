@@ -6,7 +6,7 @@ get '/200' do
 "returns a 200 status code"
 end
   get '/name' do
-     "displays your name"
+     "My name is"
    end
 
    get '/hometown' do
